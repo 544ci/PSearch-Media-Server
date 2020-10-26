@@ -12,7 +12,7 @@ var app = express();
 
 const conf = {
   user:'saad',
-  password:"3cfe170c",
+  password:"",
   server: 'localhost',
   driver: 'tedious',
   options:{
